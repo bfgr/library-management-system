@@ -1,2 +1,30 @@
-# library-management-system
-Library Management System using Java Swing
+# 📚 Library Management System
+
+![Library](4.png)
+
+Полнофункциональная система управления библиотекой на Java Swing.
+
+## ✨ Особенности
+
+• 📚 Добавление книг  
+• ✍️ Добавление автора  
+• 📋 Отображение списка книг  
+• 🗑 Очистка списка  
+
+## 🚀 Быстрый запуск
+
+1. Скачать проект  
+2. Открыть в IntelliJ IDEA  
+3. Запустить файл LibraryManagement.java  
+4. Использовать приложение  
+
+## 📷 Скриншоты
+
+![Library Screenshot](4.png)
+
+## 🛠 Технологии
+
+• Java  
+• Java Swing  
+• AWT  
+
